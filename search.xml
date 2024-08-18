@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>MythicMobsl.1</title>
+      <link href="/2024/08/18/what1/"/>
+      <url>/2024/08/18/what1/</url>
+      
+        <content type="html"><![CDATA[<p>似乎可以开始加内容了.问了半天chatgpt不如我自己学,自创内容倒是挺多<br>让我思索一下，<br>建立一个大的体系来 预计50只怪左右 A=是 B=是不是<br>特殊装备索引在隔壁items里面<br>Mobs LIST<br>1:谈论<br>hp 6<br>basic damage 1<br>装备：<br>头：none<br>甲：none<br>裤：none<br>鞋：none<br>主手：木剑 shrapness1<br>副手：none<br>模型小僵尸，（你怎么知道我ia不会加模型）<br>技能<br>1：<br>conditon:目标10m内<br>cooldown:<br>在攻击后赋予目标一个缓慢2*2s oncombat<br>spawnlimit:被召唤<br>droptable:none<br>option<br>在范围外不免疫弓箭<br>就这么简单（懒得想</p><p>2：争论<br>hp：30<br>basic damage 4<br>装备：<br>头：none<br>甲：none<br>裤：none<br>鞋：none<br>主手：特检<br>副手：none<br>模型溺尸<br>技能<br>1:攻击后自身加上速度1和力量1<em>3s oncombat<br>  cooldown 10s<br>2：召唤谈论</em>2 oncombat<br>condition:目标10m内<br>cooldown 6s<br>spawnlimit:none<br>droptable:none<br>option<br>在范围外免疫弓箭<br>索敌距离15格</p><p>3：无端争论<br>hp：50<br>basic damage：4<br>模型:僵尸<br>装备：<br>头：金头盔 protect5 unbreakingX<br>甲：none<br>裤：none<br>鞋：none<br>主手：金剑<br>副手：none<br>技能oncombat or not<br>1：在target加脚底下生成3<em>3的粒子效果并在范围内给予weakness+slowness3</em>0.5s<br>conditon:目标10m内<br>cooldown:<br>spawnlimit:none<br>droptable:none<br>option:<br>在范围外免疫弓箭<br>索敌距离20格<br>kb*0.5</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2024/08/17/hello-world/"/>
       <url>/2024/08/17/hello-world/</url>
