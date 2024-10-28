@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>被记录的Day1</title>
+      <link href="/2024/10/28/day1/"/>
+      <url>/2024/10/28/day1/</url>
+      
+        <content type="html"><![CDATA[<p>目前助攻<br>前端<br>绘画<br>乐理<br>好漫长啊<br>这一天天的全是硬东西<br>难啃的要死<br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">前端 0.5% </span><br></pre></td></tr></table></figure><br>绘画  0.6% 目前就人脸稍微好点，在摸人体比例结构和人体的基本体块<br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">乐理  0.01%%</span><br></pre></td></tr></table></figure><br>后端 待安排<br><del>~</del>~~~</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Daily </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>MythicMobsl.boss.1</title>
+      <link href="/2024/09/09/what6/"/>
+      <url>/2024/09/09/what6/</url>
+      
+        <content type="html"><![CDATA[<p>于绝望之上。挑战极限<br>单boss.无附属召唤<br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br></pre></td><td class="code"><pre><span class="line">狂：</span><br><span class="line">hp：2000</span><br><span class="line">basic damage：1</span><br><span class="line">模型:小白</span><br><span class="line">装备：</span><br><span class="line">头：铁头 pro 2</span><br><span class="line">甲：铁甲</span><br><span class="line">裤：皮革裤子</span><br><span class="line">鞋：none</span><br><span class="line">主手：铁剑 时运10</span><br><span class="line">副手：盾牌</span><br><span class="line">技能oncombat or not</span><br><span class="line">被动：</span><br><span class="line">当漠视等级提高1等，伤害提升0.5点</span><br><span class="line">pinga附着0.01点漠视</span><br><span class="line">1：</span><br><span class="line">附着</span><br><span class="line">condition：hp&lt;=1900</span><br><span class="line">cooldown:30s</span><br><span class="line">在较短时间内使玩家被吸附，持续6s</span><br><span class="line">2：</span><br><span class="line">铭记</span><br><span class="line">codition：none</span><br><span class="line">cooldown: 30</span><br><span class="line">使玩家获得虚弱1，同时对玩家冲刺，假如冲刺造成伤害，随后造成3点无视一切防御手段的伤害并且造成高额击退，累计漠视 tag：1</span><br><span class="line">3:</span><br><span class="line">蓄能</span><br><span class="line">condition:????</span><br><span class="line">cooldown:40</span><br><span class="line">停滞在原地</span><br><span class="line">向10个方向发射魔法弹,击中导致我方血量在2s内变为2点，随后立即恢复至之前血量.</span><br><span class="line"></span><br><span class="line">4:</span><br><span class="line">恒等式</span><br><span class="line">cooldown：30</span><br><span class="line">将我方对其造成伤害原额返还。</span><br><span class="line">同时获得0.01x造成伤害数值的漠视</span><br><span class="line"></span><br><span class="line">4.5：</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line">5：</span><br><span class="line">随性</span><br><span class="line">codition：hp&lt;=200</span><br><span class="line">一次性技能</span><br><span class="line">在场上随机放置爆炸点共10个，造成巨额不分敌我的爆炸</span><br></pre></td></tr></table></figure></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> mythicmobs </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Fish.1</title>
       <link href="/2024/09/07/fish/"/>
       <url>/2024/09/07/fish/</url>
@@ -23,7 +61,7 @@
     
     
     <entry>
-      <title>MythicMobsl.5、</title>
+      <title>MythicMobsl.5</title>
       <link href="/2024/08/29/waht5/"/>
       <url>/2024/08/29/waht5/</url>
       
