@@ -4,6 +4,69 @@
   
     
     <entry>
+      <title>真正被记录的Day15</title>
+      <link href="/2024/12/01/Day15/"/>
+      <url>/2024/12/01/Day15/</url>
+      
+        <content type="html"><![CDATA[<p>从某种意义上来说<br>java和c艹太像了<br>感觉java抄了很多，但不完全多<br>每个语言都有自己的优势<br>但是都是刚起步而已<br>等到融汇贯通似乎还有很长一段的时间。<br>全栈开发是这样的，只需要学一堆东西就可以了，<strong>但是写的时候就要考虑很多了</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Daily </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>真正被记录的Day5</title>
+      <link href="/2024/11/24/Day4/"/>
+      <url>/2024/11/24/Day4/</url>
+      
+        <content type="html"><![CDATA[<p>还是很容易什么事情都没有做到啊，<br>但是，人生似乎就是这样，<br>感觉上升脱实了<br>来试试markdown</p><h1 id="我是1级标题waw"><a href="#我是1级标题waw" class="headerlink" title="我是1级标题waw"></a>我是1级标题waw</h1><h2 id="我是2级标题"><a href="#我是2级标题" class="headerlink" title="我是2级标题"></a>我是2级标题</h2><h3 id="3！！"><a href="#3！！" class="headerlink" title="3！！"></a>3！！</h3><ul><li>[x] d<br>还有</li></ul><ol><li>4</li><li>3</li><li>2</li><li>1</li><li>65<h2 id="然后又忘记了，"><a href="#然后又忘记了，" class="headerlink" title="然后又忘记了，"></a>然后又忘记了，</h2>链接跳转<h2 id="百度"><a href="#百度" class="headerlink" title="百度"></a><a href="https://baidu.com">百度</a></h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> <span class="built_in">range</span></span><br></pre></td></tr></table></figure></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Daily </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Tset</title>
+      <link href="/2024/11/22/test/"/>
+      <url>/2024/11/22/test/</url>
+      
+        <content type="html"><![CDATA[<p>怎么这么难呢这人体透视，画是有感觉了，但是比例太难捏对了<br>不是啊这</p><h1 id="你让和我怎么弄"><a href="#你让和我怎么弄" class="headerlink" title="你让和我怎么弄"></a>你让和我怎么弄</h1><h3 id="444"><a href="#444" class="headerlink" title="444"></a>444</h3><blockquote><p>5455<br><strong>44</strong><br>1.ok<br>2.ok</p><ul><li>2</li><li>cute</li></ul></blockquote><ul><li>[] c</li><li>s<ul><li><a href="https://www.baidu.com">百度</a></li><li><img src="https://via.placeholder.com/150" alt="示例图片"></li></ul></li></ul><hr><h2 id="heccl"><a href="#heccl" class="headerlink" title="heccl"></a>heccl</h2><p>2<br>3</p><p>效果：<br>这是 <code>行内代码</code> 示例。</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 块代码示例</span></span><br><span class="line"><span class="built_in">print</span>(<span class="string">&quot;Hello, sw</span></span><br><span class="line"><span class="string">orld!</span></span><br><span class="line"><span class="string">我真</span></span><br><span class="line"><span class="string">#</span></span><br><span class="line"><span class="string">eee</span></span><br></pre></td></tr></table></figure><p>2<br>```C++</p><h1 id="include"><a href="#include" class="headerlink" title="include"></a>include<stiod.h></h1><p>int main</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Test </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>真正被记录的Day1</title>
       <link href="/2024/11/20/Day1/"/>
       <url>/2024/11/20/Day1/</url>
