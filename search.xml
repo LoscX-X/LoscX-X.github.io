@@ -4,6 +4,82 @@
   
     
     <entry>
+      <title>玩法介绍</title>
+      <link href="/2025/02/25/howToPlay/ore/"/>
+      <url>/2025/02/25/howToPlay/ore/</url>
+      
+        <content type="html"><![CDATA[<p>在资源世界1中<br>神话矿石:<br>在沙漠中高概率生成<br>紫水晶矿石<br>在沙漠中高概率生成<br>银矿石<br>在沙漠中高概率生成<br>铱矿：<br>中概率生成于全世界中</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ServerGames </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>玩法介绍</title>
+      <link href="/2025/02/25/howToPlay/mobs/mobAdd1/"/>
+      <url>/2025/02/25/howToPlay/mobs/mobAdd1/</url>
+      
+        <content type="html"><![CDATA[<p>Plugin list:<br> AdvancedEnchantments, (额外附魔)<br> CoreProtect, (防止恶意的毁坏)<br> Craftorithm, (便捷配方，放心是我便捷了不是你（)<br> CustomCrops, (更多作物，未适配npc)<br> CustomFishing, (更多钓鱼,未适配区域)<br> Essentials, (管理插件)<br> EssentialsChat, (管理插件)<br> GSit, (座位插件)<br> ItemsAdder, LoneLibs,ProtocolLib,（物品扩展插件）<br> LuckPerms, (权限插件)<br> MiniMOTD, (服务器标题插件)<br> Multiverse-Core, （多核心世界插件）<br> MythicCrucible, MythicMobs, （更多生物和物品技能插件）<br> PlaceholderAPI, (游戏内api)<br> QuickSave, （自动存档）<br> SkinsRestorer, TAB,Vault,<br> WorldEdit, WorldEditSUI,（创世神）<br> zMenu.（菜单）<br>首先/menu可以打开菜单<br>现在有两个世界可以提供游玩<br><a href="notes/note1.md">合成表查询</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ServerGames </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>玩法介绍</title>
+      <link href="/2025/02/25/howToPlay/recipe/recipe/"/>
+      <url>/2025/02/25/howToPlay/recipe/recipe/</url>
+      
+        <content type="html"><![CDATA[<p>工具<br><img src="1.png" alt="RT"><br><img src="2.png" alt="RT"><br><img src="3.png" alt="RT"><br><img src="4.png" alt="RT"><br><img src="5.png" alt="RT"><br>材料<br><img src="6.png" alt="RT"><br><img src="7.png" alt="RT"><br>武器<br><img src="8.png" alt="RT"><br><img src="9.png" alt="RT"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ServerGames </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>玩法介绍</title>
+      <link href="/2025/02/25/howToPlay/playWays/"/>
+      <url>/2025/02/25/howToPlay/playWays/</url>
+      
+        <content type="html"><![CDATA[<p>Plugin list:<br> AdvancedEnchantments, (额外附魔)<br> CoreProtect, (防止恶意的毁坏)<br> Craftorithm, (便捷配方，放心是我便捷了不是你（)<br> CustomCrops, (更多作物，未适配npc)<br> CustomFishing, (更多钓鱼,未适配区域)<br> Essentials, (管理插件)<br> EssentialsChat, (管理插件)<br> GSit, (座位插件)<br> ItemsAdder, LoneLibs,ProtocolLib,（物品扩展插件）<br> LuckPerms, (权限插件)<br> MiniMOTD, (服务器标题插件)<br> Multiverse-Core, （多核心世界插件）<br> MythicCrucible, MythicMobs, （更多生物和物品技能插件）<br> PlaceholderAPI, (游戏内api)<br> QuickSave, （自动存档）<br> SkinsRestorer, TAB,Vault,<br> WorldEdit, WorldEditSUI,（创世神）<br> zMenu.（菜单）<br>首先/menu可以打开菜单<br>现在有两个世界可以提供游玩<br><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">1，附魔玩法介绍</span><br></pre></td></tr></table></figure><br><a href="../advancedenchantments/ae1.md">附魔表查询</a>ctrl+f进行搜索<br>首先点击菜单中的附魔台<br>点击菜单中的附魔台即可进入界面<br>可以看见有3个内容<br>购买书本和驱魔，和升级有对应的介绍<br>同时有以下的其他物品极其对应方式<br><img src="./img/1.png" alt="描述">获得神秘之尘<br><img src="./img/2.png" alt="描述">获得魔法之尘<br><img src="./img/3.png" alt="描述">获得黑色卷轴<br>主要物品只有三个<br>请不必担心物品附魔遭到损坏，已关闭<br>左侧有经验量</p><hr><p><a href="../howToPlay/recipe/recipe.md">合成表查询</a><br><a href="../advancedenchantments/ae1.md">附魔表查询</a><br><a href="../howToPlay/mobs/mobAdd1.md">新增敌对生物介绍</a><br><a href="../howToPlay/ore">矿物刷新地址</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> ServerGames </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>更新日志1</title>
       <link href="/2025/02/16/ServerUpdatelog/severD1/"/>
       <url>/2025/02/16/ServerUpdatelog/severD1/</url>
